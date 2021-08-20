@@ -8,6 +8,7 @@
 namespace project
 {	
 
+//test
 struct CommandError: std::logic_error
 {
     CommandError();
